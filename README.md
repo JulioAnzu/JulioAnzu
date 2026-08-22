@@ -1,9 +1,5 @@
 # ⚡ SOFTWARE DEVELOPER • BACKEND SPECIALIST • CDMX MX
 
-<p align="center">
-  <img src="https://komarev.com" alt="Visitas" />
-</p>
-
 <h1 align="center">Julio Axel Anzures Cruz</h1>
 
 <p align="center">
@@ -30,24 +26,17 @@ Soy un desarrollador enfocado en crear soluciones robustas en el Backend, con la
 ### 💻 Mis Tecnologías & Herramientas
 
 #### 🧠 Backend & Lógica
-<p align="left">
-  <img src="https://shields.io" alt="Java" />&nbsp;
-  <img src="https://shields.io" alt="Spring Boot" />&nbsp;
-  <img src="https://shields.io" alt="Python" />
-</p>
+* ☕ **Java** — *Estructuras de datos, POO y lógica avanzada.*
+* 🍃 **Spring Boot** — *Desarrollo de API Rest y microservicios.*
+* 🐍 **Python** — *Automatización, scripts y consumo de datos.*
 
 #### 🗄️ Bases de Datos e Infraestructura
-<p align="left">
-  <img src="https://shields.io" alt="MySQL" />&nbsp;
-  <img src="https://shields.io" alt="Oracle" />
-</p>
+* 🐬 **MySQL & Workbench** — *Diseño de bases de datos relacionales y queries.*
+* ☁️ **Oracle Cloud (OCI)** — *Infraestructura en la nube y despliegue.*
 
 #### 🎨 Frontend Base & IA
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />&nbsp;
-  <img src="https://shields.io" alt="CSS3" />&nbsp;
-  <img src="https://shields.io" alt="ChatGPT" />
-</p>
+* 🌐 **HTML5 & CSS3** — *Maquetación y estilos de interfaces web.*
+* 🤖 **ChatGPT** — *Optimización de flujos y asistencia en desarrollo.*
 
 ---
 
@@ -61,13 +50,8 @@ Soy un desarrollador enfocado en crear soluciones robustas en el Backend, con la
 
 ---
 
-### 📊 Mis Estadísticas (Radical x Sunset)
+### 📊 Estado del Perfil
 
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de Julio" width="48%" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" width="48%" />
-</p>
+* 🎯 **Enfoque Actual:** Perfeccionando arquitectura de software y patrones de diseño en el entorno Java.
+* 🚀 **Dato rápido:** Los repositorios de arriba contienen código de producción real listos para revisión.
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Racha de GitHub" width="97%" />
-</p>
