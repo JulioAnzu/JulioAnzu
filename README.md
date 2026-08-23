@@ -7,7 +7,7 @@
   <br />
   <em>Construyo sistemas eficientes combinando lógica robusta, APIs y Automatización con Inteligencia Artificial.</em>
   <br />
-  🎬 Creador de contenido en el canal: <strong>HAAS / Jack_Deep</strong>
+  🎬 Creador de contenido en el canal: <strong>JAAC_DEV /@julio_anzu</strong>
 </p>
 
 ---
@@ -44,9 +44,9 @@ Soy un desarrollador enfocado en crear soluciones robustas en el Backend, con la
 
 | Proyecto | Qué es | Stack | Enlace |
 | :--- | :--- | :--- | :--- |
-| **🍿 funnstream** | Plataforma de streaming de películas basada en reseñas. Aplica de forma estricta herencia, encapsulamiento, polimorfismo y abstracción. | `Java` `POO` | [Ver Código](https://github.com) |
-| **☕ java-developer-roadmap** | Ruta estructurada y repositorio de aprendizaje enfocado en estructuras de datos, algoritmos, bases de datos y desarrollo backend. | `Java` `Git` `IntelliJ` | [Ver Código](https://github.com) |
-| **🎨 sarath-kids** | Desarrollo e implementación frontend que incluye estructura web interactiva y hojas de estilo personalizadas con galerías de imágenes. | `HTML5` `CSS3` | [Ver Código](https://github.com) |
+| **🍿 funnstream** | Plataforma de streaming de películas basada en reseñas. Aplica de forma estricta herencia, encapsulamiento, polimorfismo y abstracción. | `Java` `POO` | [Ver Código]((https://github.com/JulioAnzu/funnstream)) |
+| **☕ java-developer-roadmap** | Ruta estructurada y repositorio de aprendizaje enfocado en estructuras de datos, algoritmos, bases de datos y desarrollo backend. | `Java` `Git` `IntelliJ` | [Ver Código](https://github.com/JulioAnzu/java-developer-roadmap) |
+| **🎨 sarath-kids** | Desarrollo e implementación frontend que incluye estructura web interactiva y hojas de estilo personalizadas con galerías de imágenes. | `HTML5` `CSS3` | [Ver Código]((https://github.com/JulioAnzu/sarath-kids)) |
 
 ---
 
