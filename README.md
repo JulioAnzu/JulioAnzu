@@ -60,10 +60,10 @@
 
 | Categoría | Tecnologías / Herramientas |
 | :--- | :--- |
-| **Backend & Core** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" /></a> |
-| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /></a> |
-| **Databases & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=oracle,postgres,mysql&theme=dark" /></a> |
-| **Tools & Environment** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" /></a> |
+| **Backend & Core** | <a href="https://github.com/JulioAnzu"><img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" /></a> |
+| **Frontend** | <a href="https://github.com/JulioAnzu"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /></a> |
+| **Databases & Cloud** | <a href="https://github.com/JulioAnzu"><img src="https://skillicons.dev/icons?i=oracle,postgres,mysql&theme=dark" /></a> |
+| **Tools & Environment** | <a href="https://github.com/JulioAnzu"><img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" /></a> |
 
 </div>
 
