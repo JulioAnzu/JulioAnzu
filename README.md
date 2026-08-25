@@ -13,7 +13,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/julio-anzu"><code>LinkedIn</code></a>
     &nbsp;•&nbsp;
-    <a href="mailto:julioanzurescontacto@gmail.com"><code>JulioAnsuContacto@gmail.com</code></a>
+    <a href="mailto:julioanzurescontacto@gmail.com"><code>JulioAnzuresContacto@gmail.com</code></a>
   </p>
 
   <br/>
